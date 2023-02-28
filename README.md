@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @siko2222
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning node-RED, grafana and timescaledb
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @siko2222
+I’m currently learning Node-RED, Grafana and TimescaleDB
 
 <!---
 siko2222/siko2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
